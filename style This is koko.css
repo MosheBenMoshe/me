@@ -1,0 +1,31 @@
+body {
+	 background-image: url(https://scontent.ftlv5-1.fna.fbcdn.net/v/t1.0-9/115752324_2558173474496246_3651485577176761064_n.png?_nc_cat=105&_nc_sid=730e14&_nc_ohc=qTJjLm4u26IAX_zG3u_&_nc_ht=scontent.ftlv5-1.fna&oh=bcaee57c5ead69bbcd3d269032f56683&oe=5F40E725);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+ 
+        	font-family: Impact, Charcoal, sans-serif;
+}
+	img{ 
+	size: 250px; border: 5px solid silver
+}
+	
+
+nav a {
+  display:inline;
+  font-size: 32px;
+  font-weight:bold;
+  margin-right:1.5em;
+  color:black
+   }
+
+nav a:hover{font-size:38px;
+			transition:0.3s ease;
+}
+
+#homePage{
+	 	font-family: Impact, Charcoal, sans-serif;
+		font-size: 32px;
+		margin-right:1.5em;
+}

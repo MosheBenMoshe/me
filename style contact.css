@@ -1,0 +1,66 @@
+body {
+		font-family: Impact, Charcoal, sans-serif;
+ 	 background-image: url(https://scontent.ftlv5-1.fna.fbcdn.net/v/t31.0-8/15039660_1193580334063363_4122067158663579512_o.jpg?_nc_cat=110&_nc_sid=19026a&_nc_ohc=6pT1p1HIZS8AX9uuqgA&_nc_ht=scontent.ftlv5-1.fna&oh=591a80e20682dc3ca9e3980ded624cd9&oe=5F4231BD);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+      }  
+
+}
+	img{ 
+	size: 250px; 
+}
+div img{
+     transition: transform .2s;
+ size: 250px
+  margin: 0 auto;
+}
+
+div img:hover {
+  -ms-transform: scale(2); /* IE 9 */
+  -webkit-transform: scale(2); /* Safari 3-8 */
+  transform: scale(2); 
+}
+
+nav a {
+  display:inline;
+  	 	font-family: Impact, Charcoal, sans-serif;
+  font-size: 32px;
+  font-weight:bold;
+  margin-right:1.5em;
+  color:white
+  }
+
+nav a:hover{font-size:38px;
+			transition:0.3s ease;
+}
+
+#homePage{
+	  display:inline;
+	 	font-family: Impact, Charcoal, sans-serif;
+		font-size: 32px;
+		margin-right:1.5em;
+		color: white
+
+}
+
+#boton{
+	  display:inline;
+	 	font-family: Impact, Charcoal, sans-serif;
+		font-size: 32px;
+		margin-right:1.5em;
+
+}
+
+h1{
+	font-family: Aharoni;
+	font-size:70px;
+			color: white
+
+}
+
+h2{
+	font-family: Aharoni;
+	font-size:45px;
+}
+
